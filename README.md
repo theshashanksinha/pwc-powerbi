@@ -20,3 +20,12 @@ This project showcases my Power BI skills in a simulated job environment. I focu
 
 * Email communication
 * Presenting insights to stakeholders
+
+## Dashboard Preview
+![PowerBI Dashboard Screenshot](/images/1.jpg)
+---
+![PowerBI Dashboard Screenshot](/images/2.jpg)
+---
+![PowerBI Dashboard Screenshot](/images/3.jpg)
+---
+![PowerBI Dashboard Screenshot](/images/4.jpg)
