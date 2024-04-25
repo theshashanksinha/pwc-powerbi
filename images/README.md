@@ -1,1 +1,1 @@
-For Keeping Assets.
+For Keeping Images.
