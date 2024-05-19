@@ -1,25 +1,11 @@
 # Project Title: PwC Switzerland Power BI Case
 
 ## Overview
+In this project where I honed my Power BI skills to understand clients' data visualization needs, I meticulously analyzed a substantial dataset comprising 5000+ entries. This dataset encompassed Call Center trends, Customer Retention information, and detailed analysis of 6 Key Performance Indicators (KPIs) within HR data. Throughout this endeavor, I achieved the following milestones:
 
-This project showcases my Power BI skills in a simulated job environment. I focused on data visualization, communication, and analytical problem-solving skills to understand client needs and deliver actionable insights.
-
-## Key Accomplishments
-
-* **Enhanced Power BI Expertise:** Designed informative Power BI dashboards to effectively present key performance indicators (KPIs), demonstrating my ability to meet client visualization demands.
-* **Effective Communication:** Engaged in clear email communication with simulated partners, providing data-backed insights and recommendations. 
-* **Problem-Solving:** Applied analytical skills to investigate HR data, specifically gender-related KPIs. Successfully pinpointed root causes for gender imbalance at the executive level, demonstrating a dedication to data-driven solutions. 
-
-## Technical Skills
-
-* Power BI (Dashboard creation, KPI visualization)
-* Data analysis
-* Problem-solving 
-
-## Communication Skills
-
-* Email communication
-* Presenting insights to stakeholders
+* Demonstrated expertise in data visualization by creating Power BI dashboards that effectively conveyed KPIs, showcasing my ability to respond to client requests with well-designed solutions.
+* Exhibited strong communication skills through concise and informative email correspondence with engagement partners, delivering valuable insights and actionable suggestions derived from data analysis.
+* Utilized analytical problem-solving skills to identify root causes for gender balance issues at the executive management level, underscoring a commitment to data-driven decision-making.
 
 ## Dashboard Preview
 ![PowerBI Dashboard](/images/Dashboards-1.jpg)
